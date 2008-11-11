@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<style name="keypadButton">
+		<item name="android:layout_width">80dp</item> 
+		<item name="android:layout_height">80dp</item>
+		<item name="android:layout_marginLeft">18sp</item>
+		<item name="android:layout_marginRight">18sp</item>
+	</style>
+	<style name="keypadText">
+		<item name="android:textSize">18pt</item>
+		<item name="android:textStyle">bold</item>
+	</style>
+</resources>

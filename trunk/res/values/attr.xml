@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+	<dimen name="buttonWidth">20dp</dimen>
+	<dimen name="buttonHeight">20dp</dimen>
+	
+	<array name="toneTypes">
+		<item android:name="a" android:type="text">A</item>
+		<item android:name="b" android:type="text">B</item>
+	</array>
+	
+</resources>
